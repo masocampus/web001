@@ -27,7 +27,7 @@ export default function Home() {
             <div className="space-y-3 sm:space-y-4">
               <h1 className="font-bold tracking-tight text-shadow-sm">
                 안녕하세요, 웹 개발자 <br />
-                <span className="text-primary">Masocampus</span>입니다
+                <span className="text-blue-500">Masocampus</span>입니다
               </h1>
               <p className="text-base sm:text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
                 10년 경력의 프론트엔드 개발자로, 사용자 경험을 중심으로 한 웹 애플리케이션을 설계하고 개발합니다.
